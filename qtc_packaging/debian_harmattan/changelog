@@ -1,0 +1,30 @@
+busms (0.0.5) unstable; urgency=low
+
+  * fixed hanging of titmetable display
+
+ -- Malte Marquarding <malte@marquarding.com>  Sat, 02 Jun 2012 17:24:14 +1000
+
+busms (0.0.4) unstable; urgency=low
+
+  * add workaround for vodafone
+  * fix bus view layout
+
+ -- Malte Marquarding <malte@marquarding.com>  Thu, 31 May 2012 20:06:42 +1000
+
+busms (0.0.3) unstable; urgency=low
+
+  * better loading behaviour of MapPage
+
+ -- Malte Marquarding <malte@marquarding.com>  Thu, 31 May 2012 12:28:44 +1000
+
+busms (0.0.2) unstable; urgency=low
+
+  * Fix map icons
+
+ -- Malte Marquarding <malte@marquarding.com>  Thu, 31 May 2012 14:15:29 +1000
+
+busms (0.0.1) unstable; urgency=low
+
+  * Initial Release.
+
+ -- Malte Marquarding <malte@marquarding.com>  Fri, 04 May 2012 14:15:29 +1000
